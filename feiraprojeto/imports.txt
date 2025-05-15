@@ -1,0 +1,7 @@
+pip install cv2
+pip install mediapipe as mp
+pip install math
+pip install PySimpleGUI as sg
+pip install mysql.connector
+pip install time
+pip install subprocess
